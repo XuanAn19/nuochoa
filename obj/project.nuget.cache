@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Irpssm7yKgc47cAmCnh5PoNexb/cznbDOwc5hfqd/niPICgDz1vztoF4T0RLI2vmhMJnKQOHciDCYAzosubfYQ==",
+  "dgSpecHash": "i3Aw2eseJehs5Maj/Xv2OwO7ew68PAN2nQSMovNhJ8dXnXSmfHCS2zeaR84CBK42oj7uDTedqfcvMFqPyOF4nA==",
   "success": true,
-  "projectFilePath": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.31\\microsoft.aspnetcore.cryptography.internal.6.0.31.nupkg.sha512",

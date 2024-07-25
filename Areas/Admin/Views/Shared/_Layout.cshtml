@@ -71,13 +71,14 @@
 							</button>
 						</div>
 						<div class="mainmenu pull-left">
-							<ul class="nav navbar-nav collapse navbar-collapse">
+							<ul class=" nav navbar-nav collapse navbar-collapse">
 								<li><a asp-controller="Home" >Home</a></li>
-								
-								<li><a asp-controller="Product">Sản phẩm</a></li>
-								<li><a asp-controller="Category">Danh mục</a></li>
-								<li><a asp-controller="Brand">Thương hiệu</a></li>
+								<li><a asp-controller="Product" asp-action="Index">Sản phẩm</a></li>
+								<li><a asp-controller="Category" asp-action="Index">Danh mục</a></li>
+								<li><a asp-controller="Brand" asp-action="Index">Thương hiệu</a></li>
 								<li><a asp-controller="Order" asp-action="Index">Đơn hàng</a></li>
+								<li><a asp-controller="AppRoles" asp-action="Index">Quyền</a></li>
+								<li><a asp-controller="User" asp-action="Index">Người dùng</a></li>
 							</ul>
 						</div>
 					</div>

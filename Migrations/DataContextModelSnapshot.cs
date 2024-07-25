@@ -157,6 +157,9 @@ namespace CK_ASP_NET_CORE.Migrations
                     b.Property<string>("OrderCode")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("ProductId")
+                        .HasColumnType("int");
+
                     b.Property<int>("soLuong")
                         .HasColumnType("int");
 
@@ -164,6 +167,8 @@ namespace CK_ASP_NET_CORE.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
 
                     b.ToTable("OrderDetails");
                 });
@@ -362,6 +367,15 @@ namespace CK_ASP_NET_CORE.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("AspNetUserTokens", (string)null);
+                });
+
+            modelBuilder.Entity("CK_ASP_NET_CORE.Models.OrderDetails", b =>
+                {
+                    b.HasOne("CK_ASP_NET_CORE.Models.ProductModel", "product")
+                        .WithMany()
+                        .HasForeignKey("ProductId");
+
+                    b.Navigation("product");
                 });
 
             modelBuilder.Entity("CK_ASP_NET_CORE.Models.ProductModel", b =>

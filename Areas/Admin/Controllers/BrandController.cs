@@ -3,6 +3,8 @@ using CK_ASP_NET_CORE.Repository;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+
 
 namespace CK_ASP_NET_CORE.Areas.Admin.Controllers
 {

@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:areas\\admin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:areas\\admin\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:areas\\admin\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\areas\\admin\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:areas\\admin\\controllers\\approlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\models\\appusemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:models\\appusemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:views\\home\\notfound.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|c:\\users\\dell\\downloads\\ck_asp_net_core\\ck_asp_net_core\\repository\\validation\\kiemtraattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3676E69-6F0E-4070-9A54-9832D000CBE0}|CK_ASP_NET_CORE.csproj|solutionrelative:repository\\validation\\kiemtraattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:09:09.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:08:44.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T15:08:42.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\User\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T14:46:23.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\User\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T14:32:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-25T14:31:47.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:21:35.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AppRolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:20:39.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwA4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:15:28.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "Views\\Account\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T09:55:09.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T09:54:09.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwDYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T09:21:00.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T08:53:19.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T05:21:40.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\AppUseModel.cs",
+              "RelativeDocumentMoniker": "Models\\AppUseModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\AppUseModel.cs",
+              "RelativeToolTip": "Models\\AppUseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:15:43.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T08:53:02.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "cartItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\cartItemModel.cs",
+              "RelativeDocumentMoniker": "Models\\cartItemModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\cartItemModel.cs",
+              "RelativeToolTip": "Models\\cartItemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:52:09.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:51:47.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NotFound.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Home\\NotFound.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\NotFound.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Home\\NotFound.cshtml",
+              "RelativeToolTip": "Views\\Home\\NotFound.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T08:54:03.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T08:54:05.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:54:20.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:52:52.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "KiemTraAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Repository\\Validation\\KiemTraAttribute.cs",
+              "RelativeDocumentMoniker": "Repository\\Validation\\KiemTraAttribute.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\Repository\\Validation\\KiemTraAttribute.cs",
+              "RelativeToolTip": "Repository\\Validation\\KiemTraAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T08:51:20.731Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

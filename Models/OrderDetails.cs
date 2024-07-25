@@ -1,4 +1,6 @@
-﻿namespace CK_ASP_NET_CORE.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace CK_ASP_NET_CORE.Models
 {
 	public class OrderDetails
 	{
@@ -8,5 +10,7 @@
 		public long IdSanPham { get; set; }
 		public decimal Gia { get; set; }
 		public int soLuong { get; set; }
+		[ForeignKey("ProductId")]
+		public ProductModel product { get; set; }
 	}
 }

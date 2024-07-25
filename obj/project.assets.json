@@ -2235,11 +2235,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE.csproj",
       "projectName": "CK_ASP_NET_CORE",
-      "projectPath": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE.csproj",
+      "projectPath": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

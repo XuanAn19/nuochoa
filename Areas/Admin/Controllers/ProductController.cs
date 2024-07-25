@@ -9,7 +9,8 @@ using Microsoft.EntityFrameworkCore.Metadata.Internal;
 namespace CK_ASP_NET_CORE.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize]
+	[Route("Admin/Product")]
+	[Authorize]
     public class ProductController : Controller
     {
         private readonly DataContext _dataContext;
@@ -19,8 +20,8 @@ namespace CK_ASP_NET_CORE.Areas.Admin.Controllers
             _dataContext = context;
             _webHostEnvironment = webHostEnvironment;
         }
-
-        public async Task<IActionResult> Index()
+		[Route("Index")]
+		public async Task<IActionResult> Index()
         {
             return View(await _dataContext.Products.OrderByDescending(p=> p.Id).Include(p=>p.Category).Include(p => p.Brand).ToListAsync());
         }
@@ -82,8 +83,8 @@ namespace CK_ASP_NET_CORE.Areas.Admin.Controllers
             return View(product);
         }
 
-
-        public async Task<IActionResult> Edit(int Id)
+		[Route("Edit")]
+		public async Task<IActionResult> Edit(int Id)
         {
             ProductModel product = await _dataContext.Products.FindAsync(Id);
             ViewBag.Categories = new SelectList(_dataContext.Categories, "Id", "Name", product.CategoryId);

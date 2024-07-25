@@ -2,6 +2,7 @@
 using CK_ASP_NET_CORE.Models.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using System.Security.Claims;
 
 namespace CK_ASP_NET_CORE.Controllers
 {
@@ -14,11 +15,14 @@ namespace CK_ASP_NET_CORE.Controllers
             _signInManager = signInManager;
             _userManager = userManager;
         }
-		public IActionResult Index()
-        {
-            return View();
-        }
-		
+		public async Task<IActionResult> Index()
+		{
+
+			var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+			var account = await _userManager.FindByIdAsync(userId);
+			return View(account);
+		}
+
 		public IActionResult Create()
 		{
 			return View();

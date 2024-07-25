@@ -81,7 +81,7 @@ namespace CK_ASP_NET_CORE
             
             // SeedData
             var context = app.Services.CreateScope().ServiceProvider.GetRequiredService<DataContext>();
-            SeedData.SeedingData(context);
+           // SeedData.SeedingData(context);
 
             app.Run();
         }

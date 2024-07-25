@@ -10,14 +10,14 @@
 	<div class="container">
 		<div class="breadcrumbs">
 			<ol class="breadcrumb">
-				<li><a href="#">Home</a></li>
-				<li class="active">Shopping Cart</li>
+				<li><a href="#">Trang Chủ</a></li>
+				<li class="active">Giỏ Hàng</li>
 			</ol>
 		</div>
-		<div class="table-responsive cart_info">
-			<table class="table table-condensed">
+		<div class="table-responsive cart_info" style="text-align:center">
+			<table class="table table-condensed" >
 				<thead>
-					<tr class="cart_menu">
+					<tr class="cart_menu" >
 						<td class="image">Hình</td>
 						<td class="description">Tên sản phẩm</td>
 						<td class="price">Giá</td>
@@ -40,12 +40,12 @@
 
 								</td>
 								<td class="cart_price">
-									<p>@item.Price</p>
+									<p>@item.Price VND</p>
 								</td>
 								<td class="cart_quantity">
 
 										<a class="btn btn-default btn-sm" asp-controller="Cart" asp-action="Decrease" asp-route-id="@item.ProductId"> - </a>
-										<input class="cart_quantity_input" type="text" name="quantity" value="@item.Quantity" autocomplete="off" size="2">
+									<input class="cart_quantity_input" type="text" name="quantity" value="@item.Quantity" autocomplete="off" size="2" readonly>
 										<a class="btn btn-success btn-sm" asp-controller="Cart" asp-action="Increase" asp-route-id="@item.ProductId"> +  </a>
 										<a class="btn btn-danger btn-sm" asp-controller="Cart" asp-action="Remove" asp-route-id="@item.ProductId"> Delete </a>
 
@@ -72,7 +72,7 @@
 					}
 					else
 					{
-						<h4>Gior hang khong co gi</h4>
+						<h4>Giỏ hàng không có gì</h4>
 					}
 				</tbody>
 			</table>

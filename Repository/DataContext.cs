@@ -16,7 +16,5 @@ namespace CK_ASP_NET_CORE.Repository
         public DbSet<CategoryModel> Categories { get; set; }
         public DbSet<OrderModel> OrderModels { get; set; }
         public DbSet<OrderDetails> OrderDetails { get; set; }
-        //Thêm để truy vấn đơn hàng
-        public DbSet<ProductModel> Product { get; set; }
     }
 }

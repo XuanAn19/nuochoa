@@ -1,324 +1,424 @@
 {
   "Files": [
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CK_ASP_NET_CORE.bundle.scp.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CK_ASP_NET_CORE.bundle.scp.css",
       "PackagePath": "staticwebassets\\CK_ASP_NET_CORE.bundle.scp.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\backend\\js\\site.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\backend\\js\\site.js",
       "PackagePath": "staticwebassets\\backend\\js\\site.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\css\\animate.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\css\\animate.css",
       "PackagePath": "staticwebassets\\css\\animate.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\css\\main.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\css\\main.css",
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\css\\prettyPhoto.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\css\\prettyPhoto.css",
       "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\css\\price-range.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\css\\price-range.css",
       "PackagePath": "staticwebassets\\css\\price-range.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\css\\responsive.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\images\\gallery1.jpg",
-      "PackagePath": "staticwebassets\\images\\gallery1.jpg"
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\Chanel_4.jpg",
+      "PackagePath": "staticwebassets\\images\\Chanel_4.jpg"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\Dior_1.png",
+      "PackagePath": "staticwebassets\\images\\Dior_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\Gucci_3.jpg",
+      "PackagePath": "staticwebassets\\images\\Gucci_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\chanel_1.jpg",
+      "PackagePath": "staticwebassets\\images\\chanel_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\chanel_2.jpg",
+      "PackagePath": "staticwebassets\\images\\chanel_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\chanel_3.jpg",
+      "PackagePath": "staticwebassets\\images\\chanel_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\dior_2.jpg",
+      "PackagePath": "staticwebassets\\images\\dior_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\dior_3.jpg",
+      "PackagePath": "staticwebassets\\images\\dior_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\dior_4.jpg",
+      "PackagePath": "staticwebassets\\images\\dior_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\gucci_1.jpg",
+      "PackagePath": "staticwebassets\\images\\gucci_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\gucci_2.jpg",
+      "PackagePath": "staticwebassets\\images\\gucci_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\gucci_4.jpg",
+      "PackagePath": "staticwebassets\\images\\gucci_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\contact.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\contact.js",
       "PackagePath": "staticwebassets\\js\\contact.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\gmaps.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\gmaps.js",
       "PackagePath": "staticwebassets\\js\\gmaps.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\html5shiv.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\html5shiv.js",
       "PackagePath": "staticwebassets\\js\\html5shiv.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\jquery.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\jquery.js",
       "PackagePath": "staticwebassets\\js\\jquery.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\jquery.prettyPhoto.js",
       "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\jquery.scrollUp.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\js\\price-range.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\js\\price-range.js",
       "PackagePath": "staticwebassets\\js\\price-range.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\23d0ce7a-d0fd-42ed-9fad-c9af9bebf7b4_Screenshot 2023-10-17 100740.png",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\096a4b38-9300-4fb6-b0e8-65699400e175_dior_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\096a4b38-9300-4fb6-b0e8-65699400e175_dior_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\1.png",
+      "PackagePath": "staticwebassets\\media\\products\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\13de18be-72fd-40c4-a6d0-71c39d2f2bc8_chanel_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\13de18be-72fd-40c4-a6d0-71c39d2f2bc8_chanel_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\23d0ce7a-d0fd-42ed-9fad-c9af9bebf7b4_Screenshot 2023-10-17 100740.png",
       "PackagePath": "staticwebassets\\media\\products\\23d0ce7a-d0fd-42ed-9fad-c9af9bebf7b4_Screenshot 2023-10-17 100740.png"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\671a921a-1c3b-450c-9a9e-710af0d5b549_Screenshot 2023-10-17 093309.png",
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\2719c003-b839-4faa-a5c3-b1a605440e44_dior_3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\2719c003-b839-4faa-a5c3-b1a605440e44_dior_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\36a27b75-98ac-474c-aa26-a3fce7759bf2_gucci_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\36a27b75-98ac-474c-aa26-a3fce7759bf2_gucci_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\671a921a-1c3b-450c-9a9e-710af0d5b549_Screenshot 2023-10-17 093309.png",
       "PackagePath": "staticwebassets\\media\\products\\671a921a-1c3b-450c-9a9e-710af0d5b549_Screenshot 2023-10-17 093309.png"
     },
     {
-      "Id": "C:\\HK2_N3\\CN.NET\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\aceb7352-d516-4032-a039-5141ca798d06_Screenshot 2023-10-17 154205.png",
-      "PackagePath": "staticwebassets\\media\\products\\aceb7352-d516-4032-a039-5141ca798d06_Screenshot 2023-10-17 154205.png"
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\6c586553-6ad4-46e5-b4a7-99b8089221d0_hinh14th5.png",
+      "PackagePath": "staticwebassets\\media\\products\\6c586553-6ad4-46e5-b4a7-99b8089221d0_hinh14th5.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\72b660ff-dcd5-4c8f-9e6d-09fbe09eea7d_chanel_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\72b660ff-dcd5-4c8f-9e6d-09fbe09eea7d_chanel_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\795a351b-b9f1-4ed5-b3c4-c600f95ce55e_gucci_4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\795a351b-b9f1-4ed5-b3c4-c600f95ce55e_gucci_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\9d276352-fbf6-418c-9e63-4caa74ce59b1_Dior_1.png",
+      "PackagePath": "staticwebassets\\media\\products\\9d276352-fbf6-418c-9e63-4caa74ce59b1_Dior_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\d1cf82e5-ff8e-45e8-8041-7514c8f5a939_Gucci_3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\d1cf82e5-ff8e-45e8-8041-7514c8f5a939_Gucci_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\e859fe26-2f55-4cc0-961c-3da7abbcfadd_Chanel_4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e859fe26-2f55-4cc0-961c-3da7abbcfadd_Chanel_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\eb8f14d1-489f-4fa4-b068-6f7e694b05bc_chanel_3.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\eb8f14d1-489f-4fa4-b068-6f7e694b05bc_chanel_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\ef6154be-869a-43e0-97ca-155df1c663e5_dior_4.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\ef6154be-869a-43e0-97ca-155df1c663e5_dior_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dell\\Downloads\\CK_ASP_NET_CORE\\CK_ASP_NET_CORE\\wwwroot\\media\\products\\f01b5e70-cc6f-479c-b4ae-279085346c10_gucci_2.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\f01b5e70-cc6f-479c-b4ae-279085346c10_gucci_2.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CK_ASP_NET_CORE.Microsoft.AspNetCore.StaticWebAssets.props",
